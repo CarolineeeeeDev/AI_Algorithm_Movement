@@ -1,3 +1,5 @@
+This is an assignment from University of Utah MEAE, GAMES 6610
+
 ## How to run my code
 
 apps/myApps/gameAI/**gameAI.sln** : build and run
