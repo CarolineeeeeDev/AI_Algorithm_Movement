@@ -13,9 +13,6 @@
     <ClCompile Include="src\Boid.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="Target.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
     <ClCompile Include="src\PerlinNoise\PerlinNoise.cpp">
       <Filter>src\PerlinlNoise</Filter>
     </ClCompile>
@@ -39,9 +36,6 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\Boid.h">
-      <Filter>src</Filter>
-    </ClInclude>
-    <ClInclude Include="Target.h">
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\PerlinNoise\PerlinNoise.h">
